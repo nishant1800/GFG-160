@@ -19,7 +19,6 @@ public class MajorityElement {
         }
 
         return cand;
-
     }
     
     public static void main(String args[]) {
