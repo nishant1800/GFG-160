@@ -1,7 +1,7 @@
-// Day 1 :
+// Day 1 : Second Largest
 // https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735
 
-public class SecondLargest {
+public class Day1 {
     public static int getSecondLargest(int arr[]) {
         int largest = Integer.MIN_VALUE;
         int secondLargest = Integer.MIN_VALUE;

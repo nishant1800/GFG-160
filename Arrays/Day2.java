@@ -1,7 +1,7 @@
 // Day 2 :
 // https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751
 
-public class MoveAllZerosToEnd {
+public class Day2 {
     public static void pushZerosToEnd(int arr[]) {
         int count = 0;
 
