@@ -1,7 +1,7 @@
 // Day 6 :
 // https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote
 
-public class MajorityElement {
+public class Day6 {
     public static int findMajority(int arr[]) {
         int cand = 0;
         int count = 0;

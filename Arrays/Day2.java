@@ -16,8 +16,8 @@ public class Day2 {
             arr[count] = 0;
             count++;
         }
-
     }
+    
     public static void main(String args[]) {
         int arr[] = {1, 2, 0, 4, 3, 0, 5, 0};
         pushZerosToEnd(arr);
@@ -26,5 +26,4 @@ public class Day2 {
             System.out.print(arr[i] + " ");
         }
     }
-
 }

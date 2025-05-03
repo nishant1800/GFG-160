@@ -1,7 +1,7 @@
 // Day 5 :
 // https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226
 
-public class NextPermutation {
+public class Day5 {
     public static void nextPermutation(int arr[]) {
         int n = arr.length;
         int i = n-2;

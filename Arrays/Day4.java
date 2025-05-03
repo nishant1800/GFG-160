@@ -2,7 +2,7 @@
 // https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621
 
 
-public class RotateArray {
+public class Day4 {
     public static void rotatedArray(int arr[], int d) {
         reverse(arr, 0, arr.length-1);
         reverse(arr, d, arr.length-1);
