@@ -1,4 +1,4 @@
-// Day 3 :
+// Day 3 : Reverse an Array
 // https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array
 
 public class Day3 {

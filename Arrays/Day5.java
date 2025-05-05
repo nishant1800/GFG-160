@@ -1,4 +1,4 @@
-// Day 5 :
+// Day 5 : Next Permutation
 // https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226
 
 public class Day5 {
